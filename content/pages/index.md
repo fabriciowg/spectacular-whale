@@ -39,9 +39,8 @@ sections:
           name: John Dope
           location: 'Colorado, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          La tarta de frutilla es una maravilla. Espero pronto poder comprar
+          otra
       - author:
           name: Major Payne
           location: 'VA, USA'
