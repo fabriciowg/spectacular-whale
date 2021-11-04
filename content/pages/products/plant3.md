@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '450.00'
 title: Torta 3
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/pastel3.jfif
