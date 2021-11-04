@@ -37,7 +37,7 @@ sections:
     testimonials:
       - author:
           name: Fabricio González
-          location: 'Colorado, USA'
+          location: 'Rosario, Argentina'
         text: >-
           La tarta de frutilla es una maravilla. Espero pronto poder comprar
           otra
