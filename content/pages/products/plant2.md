@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: '99.00'
-title: Integer porta
+title: Torta 2
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/pastel2.jfif
 default_original_image: images/plant2-lg.jpg
