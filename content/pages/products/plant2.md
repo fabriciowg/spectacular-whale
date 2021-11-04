@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '99.00'
+price: '1800'
 title: Torta 2
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/pastel2.jfif
