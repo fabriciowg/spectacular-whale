@@ -36,7 +36,7 @@ sections:
     title: Testimonios
     testimonials:
       - author:
-          name: John Dope
+          name: Fabricio González
           location: 'Colorado, USA'
         text: >-
           La tarta de frutilla es una maravilla. Espero pronto poder comprar
